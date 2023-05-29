@@ -1,3 +1,13 @@
+# Text Utils
+My First React.js Application
+
+# Description
+Text Utils is a simple React.js application that allows you to manipulate text in various ways. You can convert text to uppercase, lowercase, count the number of words, clear the text, and even copy/paste it. The app also provides a text preview along with the number of words and characters.
+
+
+You can check the output at 👇🏻 <br>
+https://textutils-lilac-one.vercel.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
