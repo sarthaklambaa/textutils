@@ -66,6 +66,7 @@ export default function Textform(props) {
             <p>It will take about <b>{0.008 * text.split(" ").filter((element) =>{return element.length!==0}).length} minutes </b> to read the above text</p>
             <h2>Preview</h2>
             <p>{text.length>0?text:"Nothing to preview!"}</p>
+            <br /> <br />
         </div>
         </>
     )
