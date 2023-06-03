@@ -25,9 +25,9 @@ To use the Text Utils app locally, follow these steps:
 1. Clone the repository from GitHub.
 2. Navigate to the project's root directory.
 3. Install the project dependencies by running the following command:
-### npm install
+### `npm install`
 4. Start the development server with the following command:
-### npm start
+### `npm start`
 5.Open your web browser and navigate to `http://localhost:3000` to access the app.
 
 Note: Ensure that you have Node.js and npm (Node Package Manager) installed on your machine before running the above commands.
